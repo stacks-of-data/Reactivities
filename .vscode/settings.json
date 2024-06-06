@@ -1,0 +1,5 @@
+{
+	"csharpextensions.useThisForCtorAssignments": true,
+	"csharpextensions.privateMemberPrefix": "",
+	"csharpextensions.reFormatAfterChange": true
+}
